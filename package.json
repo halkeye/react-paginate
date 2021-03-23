@@ -1,6 +1,6 @@
 {
   "name": "@halkeye/react-paginate",
-  "version": "7.1.0",
+  "version": "7.2.0",
   "description": "A ReactJS component that creates a pagination.",
   "main": "./dist/react-paginate.js",
   "repository": {
@@ -17,9 +17,11 @@
     "name": "Gavin Mogan",
     "url": "https://www.gavinmogan.com"
   },
-  "contributors": [{
-    "name": "Adèle Delamarche"
-  }],
+  "contributors": [
+    {
+      "name": "Adèle Delamarche"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/halkeye/react-paginate/issues"
