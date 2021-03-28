@@ -14,6 +14,7 @@ const config = {
     library: 'ReactPaginate',
     libraryTarget: 'umd',
     filename: 'react-paginate.js',
+    globalObject: 'this',
     chunkLoading: false,
     wasmLoading: false,
   },
